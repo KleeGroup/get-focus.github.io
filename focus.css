@@ -138,6 +138,11 @@
     background-repeat: no-repeat;
 }
 
+[data-section="deckevaluation"] header {
+    background-image:  url('./images/deckevaluation.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
 [data-section="focus-comments"] header {
     background-image:  url('./images/focus-comments.jpg');
     background-size: cover;
