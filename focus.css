@@ -95,6 +95,12 @@
     background-repeat: no-repeat;
 }
 
+[data-section="focus-demarche"] header {
+    background-image:  url('./images/Démarche UX.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
 [data-section="focus-notifications"] header {
     background-image:  url('./images/focus-notifications.jpg');
     background-size: cover;
