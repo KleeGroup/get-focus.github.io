@@ -77,12 +77,17 @@
     background-repeat: no-repeat;
 }
 
-data-section="focus-maitrise"] header {
-    background-image:  url('./images/focus-maitrise.jpg');
+[data-section="focus-maitrise"] header {
+    background-image:  url('./images/outils-maitrises.jpg');
     background-size: cover;
     background-repeat: no-repeat;
 }
 
+[data-section="focus-musique"] header {
+    background-image:  url('./images/focus-musique.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
 [data-section="focus-notifications"] header {
     background-image:  url('./images/focus-notifications.jpg');
     background-size: cover;
