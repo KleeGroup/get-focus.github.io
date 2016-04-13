@@ -50,6 +50,13 @@
     background-position: 50% 50%;
 }
 
+[data-section="focus-fondations"] header {
+    background-image:  url('./images/Briques.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: 50% 50%;
+}
+
 [data-section="focus-components"] header {
     background-image:  url('./images/focus-components.jpg');
     background-color: #E7E7CA !important;
