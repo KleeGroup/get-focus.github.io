@@ -114,6 +114,12 @@
     background-repeat: no-repeat;
 }
 
+[data-section="cocreation"] header {
+    background-image:  url('./images/cocreation.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
 [data-section="focus-comments"] header {
     background-image:  url('./images/focus-comments.jpg');
     background-size: cover;
