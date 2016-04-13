@@ -120,6 +120,12 @@
     background-repeat: no-repeat;
 }
 
+[data-section="deckbasic"] header {
+    background-image:  url('./images/Deckbasic.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
 [data-section="focus-comments"] header {
     background-image:  url('./images/focus-comments.jpg');
     background-size: cover;
